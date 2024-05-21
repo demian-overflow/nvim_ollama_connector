@@ -22,6 +22,6 @@ Allows for LLM completions choosing the model and its parameters
 
 ## References to documentation
 
-### (pynvim plugins)[https://pynvim.readthedocs.io/en/latest/usage/remote-plugins.html]
+### [pynvim plugins](https://pynvim.readthedocs.io/en/latest/usage/remote-plugins.html)
 
-### (LlamaIndex ollama client)[https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/]
+### [LlamaIndex ollama client](https://docs.llamaindex.ai/en/stable/api_reference/llms/ollama/)
