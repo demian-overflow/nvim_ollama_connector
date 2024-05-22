@@ -1,6 +1,6 @@
 # Ollama connector plugin
 
-Allows for LLM completions choosing the model and its parameters
+Allows for LLM completions choosing the model and its parameters. As of now works only with local ollama instances.
 
 ## Install manually
 
